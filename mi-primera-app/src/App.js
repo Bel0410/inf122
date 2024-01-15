@@ -21,6 +21,7 @@ function App() {
         ha impartido conferencias y talleres en diversas PyCon en múltiples países.
         "
         />
+        
       <EventoC title="MeetUp 05 - ¿Cuando escucho música de Bad Bunny?"
         image="ft2"
         dateLiteral="26 de Noviembre de 2022"

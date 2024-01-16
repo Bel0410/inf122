@@ -39,7 +39,7 @@ function App() {
           <Boton texto="+1" esBotonClick={false}
             funcionClick={click3} />
         </div>
-        <div className='contenedor2'>
+        <div className="caja2">
           <Boton texto="Reiniciar" esBotonClick={false}
             funcionClick={reiniciar} />
         </div>
